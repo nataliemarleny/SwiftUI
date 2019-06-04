@@ -16,6 +16,7 @@
 		E0E4299022A61FBE00E42D74 /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E4298F22A61FBE00E42D74 /* LandmarksTests.swift */; };
 		E0E4299B22A61FBE00E42D74 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E4299A22A61FBE00E42D74 /* LandmarksUITests.swift */; };
 		E0E429A922A622E300E42D74 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E429A822A622E300E42D74 /* CircleImage.swift */; };
+		E0E429AB22A6234200E42D74 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E429AA22A6234200E42D74 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		E0E4299A22A61FBE00E42D74 /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		E0E4299C22A61FBE00E42D74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E0E429A822A622E300E42D74 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		E0E429AA22A6234200E42D74 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				E0E4297A22A61FBB00E42D74 /* SceneDelegate.swift */,
 				E0E4297C22A61FBB00E42D74 /* ContentView.swift */,
 				E0E429A822A622E300E42D74 /* CircleImage.swift */,
+				E0E429AA22A6234200E42D74 /* MapView.swift */,
 				E0E4297E22A61FBD00E42D74 /* Assets.xcassets */,
 				E0E4298322A61FBD00E42D74 /* LaunchScreen.storyboard */,
 				E0E4298622A61FBD00E42D74 /* Info.plist */,
@@ -272,6 +275,7 @@
 			files = (
 				E0E4297922A61FBB00E42D74 /* AppDelegate.swift in Sources */,
 				E0E429A922A622E300E42D74 /* CircleImage.swift in Sources */,
+				E0E429AB22A6234200E42D74 /* MapView.swift in Sources */,
 				E0E4297B22A61FBB00E42D74 /* SceneDelegate.swift in Sources */,
 				E0E4297D22A61FBB00E42D74 /* ContentView.swift in Sources */,
 			);
