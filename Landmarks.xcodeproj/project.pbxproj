@@ -15,6 +15,7 @@
 		E0E4298522A61FBD00E42D74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0E4298322A61FBD00E42D74 /* LaunchScreen.storyboard */; };
 		E0E4299022A61FBE00E42D74 /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E4298F22A61FBE00E42D74 /* LandmarksTests.swift */; };
 		E0E4299B22A61FBE00E42D74 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E4299A22A61FBE00E42D74 /* LandmarksUITests.swift */; };
+		E0E429A922A622E300E42D74 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0E429A822A622E300E42D74 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E0E4299622A61FBE00E42D74 /* LandmarksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0E4299A22A61FBE00E42D74 /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		E0E4299C22A61FBE00E42D74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0E429A822A622E300E42D74 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				E0E4297822A61FBB00E42D74 /* AppDelegate.swift */,
 				E0E4297A22A61FBB00E42D74 /* SceneDelegate.swift */,
 				E0E4297C22A61FBB00E42D74 /* ContentView.swift */,
+				E0E429A822A622E300E42D74 /* CircleImage.swift */,
 				E0E4297E22A61FBD00E42D74 /* Assets.xcassets */,
 				E0E4298322A61FBD00E42D74 /* LaunchScreen.storyboard */,
 				E0E4298622A61FBD00E42D74 /* Info.plist */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0E4297922A61FBB00E42D74 /* AppDelegate.swift in Sources */,
+				E0E429A922A622E300E42D74 /* CircleImage.swift in Sources */,
 				E0E4297B22A61FBB00E42D74 /* SceneDelegate.swift in Sources */,
 				E0E4297D22A61FBB00E42D74 /* ContentView.swift in Sources */,
 			);
